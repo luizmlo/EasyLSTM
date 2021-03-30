@@ -1,5 +1,5 @@
 # EasyLSTM
-#### EasyLSTM is a tool that eases the creation of LSTM's and shaping/slicing into training and testing data.
+#### EasyLSTM is a tool that eases the creation of LSTM's and shaping/slicing data to the correct shape.
 #### With EasyLSTM you can go from import to prediction **in less than 10 lines of python code!**
 
 ## Requirements
