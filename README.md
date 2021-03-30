@@ -19,7 +19,7 @@ model, X_train, y_train, X_test, y_test = helper.do_magic()
 ```
 #### The _**do_magic()**_ method returns both a compiled model and the train/test split and reshaped data.
 
-#### The data goes through a series of processes that transform a pandas DataFrame into numpy arrays, with the X being an array of time windows of size _**n_steps**_ from the dataframe feature columns, and the _**y**_ being the correspondent labels in the dataset ['y'] column.
+#### The data goes through a series of processes that transform a pandas DataFrame into numpy arrays, with the X being an array of time windows of size _**n_steps**_ from the dataframe feature columns, and the _**y**_ being the corresponding labels in the dataset ['y'] column.
 
 ## Data format
 #### The data provided to the EasyLSTM's __\_init\_\__ method has to be a pandas dataframe in the following format:
