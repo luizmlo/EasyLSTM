@@ -33,7 +33,7 @@ model, X_train, y_train, X_test, y_test = helper.do_magic()
 |0.2| 3.15 | 3000 | 0.3|
 |0.3| 3.98 | 400 | 0.4|
 
-## 4 Lines from import to prediction example
+## 7 Lines from import to prediction example
 ```python
 from easy_lstm import EasyLSTM
 import pandas
