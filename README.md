@@ -3,7 +3,6 @@
 #### With EasyLSTM you can go from import to prediction **in less than 10 lines of python code!**
 
 ## Requirements
-- Python 3.8.0 _(Not limited to, if you can install the other dependencies)_
 - TensorFlow >= 2.0
 - Scikit-learn
 - Keras
