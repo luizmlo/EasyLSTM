@@ -25,7 +25,7 @@ model, X_train, y_train, X_test, y_test = helper.do_magic()
 ##### The number of features/feature columns can be any number, as long as there is a at least one feature and a 'y' column
 
 ## Sample DataFrame
-#### Note: All feature columns can be named anything, just the label column that need to be named _**'y'**_
+#### Note: All feature columns can be named anything, just the label column that needs to be named _**'y'**_
 | feature_0 | feature_1 | some_other_feature | y |
 | :---------: | :---------: | :------------------: | - |
 |0.1| 2.12 | 1600 | 0.2|
